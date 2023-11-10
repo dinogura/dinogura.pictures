@@ -26,8 +26,8 @@ p{
 }
 
 section {
-	padding-top:5px;
-	padding-bottom:5px;
+	padding-top:1px;
+	padding-bottom:1px;
 }
 
 .no-gutter > [class*='col-'] {
@@ -174,8 +174,8 @@ a:hover,a:focus {
 
 .intro {
 	font-size:22px;
-	padding-top:10px;
-	padding-bottom:10px;
+	padding-top:1px;
+	padding-bottom:1px;
 }
 
 
@@ -366,7 +366,7 @@ a:hover,a:focus {
 /* Carousel Control*/
 
 .close {
-    color: #fff;
+    color: #222;
     font-size: 50px;
     font-weight: lighter;
     opacity: 1;
