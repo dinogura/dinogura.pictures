@@ -26,8 +26,8 @@ p{
 }
 
 section {
-	padding-top:85px;
-	padding-bottom:85px;
+	padding-top:5px;
+	padding-bottom:5px;
 }
 
 .no-gutter > [class*='col-'] {
@@ -174,8 +174,8 @@ a:hover,a:focus {
 
 .intro {
 	font-size:22px;
-	padding-top:60px;
-	padding-bottom:25px;
+	padding-top:10px;
+	padding-bottom:10px;
 }
 
 
