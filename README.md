@@ -1,2 +1,0 @@
-# dinogura.pictures
-Project Website
